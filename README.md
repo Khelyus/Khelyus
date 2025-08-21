@@ -1,7 +1,7 @@
 # Привет! 👋 Я Элина
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khelyus&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khelyus&layout=compact&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khelyus&show_icons=true&theme=default&bg_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khelyus&layout=compact&theme=default&bg_color=d1d9ed)
 
 
 
