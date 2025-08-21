@@ -21,35 +21,18 @@
 
 ## 🚀 Pet-проекты
 
-### 🤖 ВБ Бот
-[![Repo](https://img.shields.io/badge/Repo-ВБ_Бот-blue?style=for-the-badge&logo=github)](https://github.com/Khelyus/vb-bot)  
-Telegram-бот для автоматизации задач (Python, Aiogram).
+[![🤖 ВБ Бот](https://img.shields.io/badge/Repo-🤖_ВБ_Бот-blue?style=for-the-badge)](https://github.com/Khelyus/vb-bot)
+> Telegram-бот для автоматизации задач (Python, Aiogram)
 
-![Wildberries Logo](https://raw.githubusercontent.com/.../path/to/wildberries_logo.png)
+[![🏎 Гонки](https://img.shields.io/badge/Repo-🏎_Гонки-green?style=for-the-badge)](https://github.com/Khelyus/racing-game)
+> Мини-игра с управлением машинкой (C#, командная работа)
 
----
+[![🎨 Графический редактор](https://img.shields.io/badge/Repo-🎨_Графический_редактор-orange?style=for-the-badge)](https://github.com/Khelyus/graphic-editor)
+> Редактор изображений с базовыми инструментами (C#, .NET)
 
-### 🏎 Гонки
-[![Repo](https://img.shields.io/badge/Repo-Гонки-green?style=for-the-badge&logo=github)](https://github.com/Khelyus/racing-game)  
-Мини-игра с управлением машинкой (C, SDL).
+[![✍️ Текстовый редактор](https://img.shields.io/badge/Repo-✍️_Текстовый_редактор-red?style=for-the-badge)](https://github.com/Khelyus/text-editor)
+> Редактор текста с подсветкой синтаксиса (C#, .NET)
 
-![Racing Demo](https://raw.githubusercontent.com/Khelyus/racing-game/main/demo.gif)
-
----
-
-### 🎨 Графический редактор
-[![Repo](https://img.shields.io/badge/Repo-Графический_редактор-orange?style=for-the-badge&logo=github)](https://github.com/Khelyus/graphic-editor)  
-Редактор изображений с базовыми инструментами (C++ / Qt).
-
-![Graphic Editor Demo](https://raw.githubusercontent.com/Khelyus/graphic-editor/main/demo.png)
-
----
-
-### ✍️ Текстовый редактор
-[![Repo](https://img.shields.io/badge/Repo-Текстовый_редактор-red?style=for-the-badge&logo=github)](https://github.com/Khelyus/text-editor)  
-Редактор текста с подсветкой синтаксиса (Python / Tkinter).
-
-![Text Editor Demo](https://raw.githubusercontent.com/Khelyus/text-editor/main/demo.gif)
 
 
 
