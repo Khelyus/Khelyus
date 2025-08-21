@@ -2,7 +2,7 @@
 
 💻 Студентка 4 курса, направление **Математическое обеспечение и администрирование информационных систем**  
 🏫 Уфимский университет науки и технологий  
-🎓 Студентка **Школы 21**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="100"/> Студентка **Школы 21**  
 🌍 Город: Уфа  
 
 ## 🔹 Навыки
@@ -18,9 +18,39 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khelyus&layout=compact&theme=default&bg_color=d1d7ed)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Khelyus&theme=default&hide_border=false)
 
-[![Musicify](https://img.shields.io/badge/🎧%20Musicify-Repo-blue)](https://github.com/YOUR_USERNAME/musicify)
-[![StockAnalyzer](https://img.shields.io/badge/📊%20StockAnalyzer-Repo-green)](https://github.com/YOUR_USERNAME/stock-analyzer)
-[![ChatBot](https://img.shields.io/badge/🤖%20ChatBot-Repo-orange)](https://github.com/YOUR_USERNAME/chatbot)
+
+## 🚀 Pet-проекты
+
+### 🤖 ВБ Бот
+[![Repo](https://img.shields.io/badge/Repo-ВБ_Бот-blue?style=for-the-badge&logo=github)](https://github.com/Khelyus/vb-bot)  
+Telegram-бот для автоматизации задач (Python, Aiogram).
+
+![Wildberries Logo](https://raw.githubusercontent.com/.../path/to/wildberries_logo.png)
+
+---
+
+### 🏎 Гонки
+[![Repo](https://img.shields.io/badge/Repo-Гонки-green?style=for-the-badge&logo=github)](https://github.com/Khelyus/racing-game)  
+Мини-игра с управлением машинкой (C, SDL).
+
+![Racing Demo](https://raw.githubusercontent.com/Khelyus/racing-game/main/demo.gif)
+
+---
+
+### 🎨 Графический редактор
+[![Repo](https://img.shields.io/badge/Repo-Графический_редактор-orange?style=for-the-badge&logo=github)](https://github.com/Khelyus/graphic-editor)  
+Редактор изображений с базовыми инструментами (C++ / Qt).
+
+![Graphic Editor Demo](https://raw.githubusercontent.com/Khelyus/graphic-editor/main/demo.png)
+
+---
+
+### ✍️ Текстовый редактор
+[![Repo](https://img.shields.io/badge/Repo-Текстовый_редактор-red?style=for-the-badge&logo=github)](https://github.com/Khelyus/text-editor)  
+Редактор текста с подсветкой синтаксиса (Python / Tkinter).
+
+![Text Editor Demo](https://raw.githubusercontent.com/Khelyus/text-editor/main/demo.gif)
+
 
 
 
