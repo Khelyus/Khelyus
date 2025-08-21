@@ -17,7 +17,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khelyus&layout=compact&theme=default&bg_color=d1d7ed)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Khelyus&theme=default&hide_border=false)
-![LeetCode Stats](https://leetcode.card.workers.dev/Khelyus?theme=light&font=baloo&extension=null)
+
+[![Musicify](https://img.shields.io/badge/🎧%20Musicify-Repo-blue)](https://github.com/YOUR_USERNAME/musicify)
+[![StockAnalyzer](https://img.shields.io/badge/📊%20StockAnalyzer-Repo-green)](https://github.com/YOUR_USERNAME/stock-analyzer)
+[![ChatBot](https://img.shields.io/badge/🤖%20ChatBot-Repo-orange)](https://github.com/YOUR_USERNAME/chatbot)
+
 
 
 
