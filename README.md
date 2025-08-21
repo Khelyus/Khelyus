@@ -17,7 +17,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khelyus&layout=compact&theme=default&bg_color=d1d7ed)
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khelyus&show_icons=true&theme=default&bg_color=d1ebed)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Khelyus&theme=default&hide_border=false)
+![Codewars](https://www.leetcode.com/users/Khelyus/badges/large)
 
 
 
