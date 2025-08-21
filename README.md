@@ -1,5 +1,10 @@
 # Привет! 👋 Я Элина
 
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khelyus&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khelyus&layout=compact&theme=radical)
+
+
+
 💻 Студентка 4 курса, направление **Математическое обеспечение и администрирование информационных систем**  
 🏫 Уфимский университет науки и технологий  
 🎓 Студентка **Школы 21**  
