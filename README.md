@@ -14,8 +14,11 @@
 - 📧 Email: khamatvalievawork@mail.ru  
 - 📱 Telegram: @Khelyus
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khelyus&show_icons=true&theme=default&bg_color=d1ebed)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khelyus&layout=compact&theme=default&bg_color=d1d7ed)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khelyus&show_icons=true&theme=default&bg_color=d1ebed)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=false)
+
 
 
 
