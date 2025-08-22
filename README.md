@@ -21,41 +21,11 @@
 
 ## 🚀 Pet-проекты
 
-[![🤖 ВБ Бот](https://img.shields.io/badge/Repo-🤖_ВБ_Бот-blue?style=for-the-badge)](https://github.com/Khelyus/vb-bot)
-> Telegram-бот для автоматизации задач WB (Python, Aiogram)
-
-[![🏎 Гонки](https://img.shields.io/badge/Repo-🏎_Гонки-green?style=for-the-badge)](https://github.com/Khelyus/racing-game)
-![Описание](Game.gif)
-> Мини-игра с управлением машинкой (C#, командная работа)
-
-[![🎨 Графический редактор](https://img.shields.io/badge/Repo-🎨_Графический_редактор-orange?style=for-the-badge)](https://github.com/Khelyus/graphic-editor)
-> Редактор изображений с базовыми инструментами (C#, .NET)
-
-[![✍️ Текстовый редактор](https://img.shields.io/badge/Repo-✍️_Текстовый_редактор-red?style=for-the-badge)](https://github.com/Khelyus/text-editor)
-> Редактор текста с разными функциями (C#, .NET)
-
-
 <a href="https://github.com/ваш_репозиторий_WB" target="_blank">
     <img src="8905447fb307e03ba164b9f3dd46f88c-40x40.jpg" alt="WB Бот" style="width: 40px; height: 40px;">
 </a>
-
-<a href="https://github.com/ваш_репозиторий_гонки" target="_blank">
-    <img src="8905447fb307e03ba164b9f3dd46f88c-40x40.jpg" alt="Гонки" style="width: 40px; height: 40px;">
-</a>
-
-
-<a href="https://github.com/ваш_репозиторий_WB" target="_blank">
-    <svg width="40" height="40" viewBox="0 0 24 24">
-        <circle cx="12" cy="12" r="10" fill="url(#gradient)"/>
-        <defs>
-            <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
-                <stop offset="0%" stop-color="#ff7f50"/>
-                <stop offset="100%" stop-color="#1e90ff"/>
-            </linearGradient>
-        </defs>
-    </svg>
-</a>
-
+![Описание](Game.gif)
+> Мини-игра с управлением машинкой (C#, командная работа)
 
 
 
