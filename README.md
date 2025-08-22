@@ -32,12 +32,12 @@
 > Графический редактор (С#, .NET)  
 
 <a href="https://github.com/Khelyus/TextEditor" target="_blank">
-    <img src="GE.gif" alt="Текстовый" style="width: 426px; height: 240px;">
+    <img src="TE.gif" alt="Текстовый" style="width: 426px; height: 240px;">
 </a>  
 > Текстовый редактор (С#, .NET)
 
 <a href="https://github.com/Khelyus/public_wb_bot_without_tokens" target="_blank">
-    <img src="WB_TG.gif" alt="Текстовый" style="width: 426px; height: 240px;">
+    <img src="WB_TG.png" alt="Текстовый" style="width: 426px; height: 240px;">
 </a>  
 > Бот с API WB (Python, API, asyncio, aiohttp)
 
