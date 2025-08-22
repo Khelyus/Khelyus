@@ -25,6 +25,7 @@
 > Telegram-бот для автоматизации задач WB (Python, Aiogram)
 
 [![🏎 Гонки](https://img.shields.io/badge/Repo-🏎_Гонки-green?style=for-the-badge)](https://github.com/Khelyus/racing-game)
+![Описание](Game.gif)
 > Мини-игра с управлением машинкой (C#, командная работа)
 
 [![🎨 Графический редактор](https://img.shields.io/badge/Repo-🎨_Графический_редактор-orange?style=for-the-badge)](https://github.com/Khelyus/graphic-editor)
