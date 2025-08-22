@@ -25,7 +25,9 @@
 <a href="https://github.com/Khelyus/AEGI_Game1" target="_blank">
     <img src="Game.gif" alt="Гонки" style="width: 426px; height: 240px;">
 </a>  
-> **Мини-игра с управлением машинкой (C#, командная работа)**
+
+**Мини-игра с управлением машинкой**  
+_C#, командная работа_
 
 <a href="https://github.com/Khelyus/GraphicEditor" target="_blank">
     <img src="GE.gif" alt="Графичекий" style="width: 426px; height: 240px;">
