@@ -20,29 +20,31 @@
 
 
 ## 🚀 Pet-проекты  
-**Все проекты доступны на GitHub по клику на изображение**
+**👇Все проекты доступны на GitHub по клику на изображение👇**
 
 <a href="https://github.com/Khelyus/AEGI_Game1" target="_blank">
     <img src="Game.gif" alt="Гонки" style="width: 426px; height: 240px;">
 </a>  
 
-**Мини-игра с управлением машинкой**  
-_C#, командная работа_
+**Мини-игра с управлением машинкой**_(C#, командная работа)_
 
 <a href="https://github.com/Khelyus/GraphicEditor" target="_blank">
     <img src="GE.gif" alt="Графичекий" style="width: 426px; height: 240px;">
 </a>  
-> Графический редактор (С#, .NET)  
+
+**Графический редакто**_(С#, .NET)_
 
 <a href="https://github.com/Khelyus/TextEditor" target="_blank">
     <img src="TE.gif" alt="Текстовый" style="width: 426px; height: 240px;">
 </a>  
-> Текстовый редактор (С#, .NET)
+
+**Текстовый редактор**_(С#, .NET)_
 
 <a href="https://github.com/Khelyus/public_wb_bot_without_tokens" target="_blank">
     <img src="WB_TG.png" alt="Текстовый" style="width: 426px; height: 240px;">
 </a>  
-> Бот с API WB (Python, API, asyncio, aiohttp)
+
+**Бот с API WB**_(Python, API, asyncio, aiohttp)__
 
 
 
