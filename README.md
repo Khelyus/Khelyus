@@ -19,12 +19,13 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Khelyus&theme=default&hide_border=false)
 
 
-## 🚀 Pet-проекты
+## 🚀 Pet-проекты  
+**Все проекты доступны на GitHub по клику на изображение**
 
 <a href="https://github.com/Khelyus/AEGI_Game1" target="_blank">
     <img src="Game.gif" alt="Гонки" style="width: 426px; height: 240px;">
 </a>  
-> Мини-игра с управлением машинкой (C#, командная работа)
+> **Мини-игра с управлением машинкой (C#, командная работа)**
 
 <a href="https://github.com/Khelyus/GraphicEditor" target="_blank">
     <img src="GE.gif" alt="Графичекий" style="width: 426px; height: 240px;">
