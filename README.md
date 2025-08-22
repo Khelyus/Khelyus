@@ -21,10 +21,9 @@
 
 ## 🚀 Pet-проекты
 
-<a href="https://github.com/ваш_репозиторий_WB" target="_blank">
-    <img src="8905447fb307e03ba164b9f3dd46f88c-40x40.jpg" alt="WB Бот" style="width: 40px; height: 40px;">
+<a href="https://github.com/Khelyus/AEGI_Game1" target="_blank">
+    <img src="Game.gif" alt="Гонки" style="width: 426px; height: 240px;">
 </a>
-![Описание](Game.gif)
 > Мини-игра с управлением машинкой (C#, командная работа)
 
 
