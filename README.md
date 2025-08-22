@@ -23,13 +23,23 @@
 
 <a href="https://github.com/Khelyus/AEGI_Game1" target="_blank">
     <img src="Game.gif" alt="Гонки" style="width: 426px; height: 240px;">
-</a>
+</a>  
 > Мини-игра с управлением машинкой (C#, командная работа)
 
+<a href="https://github.com/Khelyus/GraphicEditor" target="_blank">
+    <img src="GE.gif" alt="Графичекий" style="width: 426px; height: 240px;">
+</a>  
+> Графический редактор (С#, .NET)  
 
+<a href="https://github.com/Khelyus/TextEditor" target="_blank">
+    <img src="GE.gif" alt="Текстовый" style="width: 426px; height: 240px;">
+</a>  
+> Текстовый редактор (С#, .NET)
 
-
-
+<a href="https://github.com/Khelyus/public_wb_bot_without_tokens" target="_blank">
+    <img src="WB_TG.gif" alt="Текстовый" style="width: 426px; height: 240px;">
+</a>  
+> Бот с API WB (Python, API, asyncio, aiohttp)
 
 
 
