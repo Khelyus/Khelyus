@@ -22,6 +22,14 @@
 ## 🚀 Pet-проекты  
 **👇Все проекты доступны на GitHub по клику на изображение👇**
 
+
+<a href="https://github.com/Khelyus/public_wb_bot_without_tokens" target="_blank">
+    <img src="WB_TG.png" alt="Текстовый" style="width: 426px; height: 240px;">
+</a>  
+
+**Бот с API WB**  _(Python, API, тестирование с Selenium)__
+
+
 <a href="https://github.com/Khelyus/AEGI_Game1" target="_blank">
     <img src="Game.gif" alt="Гонки" style="width: 426px; height: 240px;">
 </a>  
@@ -40,11 +48,7 @@
 
 **Текстовый редактор**  _(С#, .NET)_
 
-<a href="https://github.com/Khelyus/public_wb_bot_without_tokens" target="_blank">
-    <img src="WB_TG.png" alt="Текстовый" style="width: 426px; height: 240px;">
-</a>  
 
-**Бот с API WB**  _(Python, API, asyncio, aiohttp)__
 
 
 
