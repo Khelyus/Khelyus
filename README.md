@@ -27,7 +27,7 @@
     <img src="WB_TG.png" alt="Текстовый" style="width: 426px; height: 240px;">
 </a>  
 
-**Бот с API WB**  _(Python, API, тестирование с Selenium)__
+**Бот с API WB**  _(Python, API, автоматизация с Selenium)__
 
 
 <a href="https://github.com/Khelyus/AEGI_Game1" target="_blank">
